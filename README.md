@@ -15,7 +15,7 @@
 - I work at Bangladeshi App Development Company as an Android Developer.
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PSOjha)](https://github.com/PSOjha/piYush Ojha)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PSOjha)](https://github.com/PSOjha/piYushOjha)
 
 
 ### Connect with me:
