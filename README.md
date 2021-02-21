@@ -18,12 +18,12 @@
 [website]: 
 [facebook]: https://www.facebook.com/piyush.ojha.777
 [instagram]: https://instagram.com/piyush.0jha?igshid=czf7r2t6468f
-[linkedin]: https://www.linkedin.com/in/piyush-ojha-177b88172/
+[linkedin]: "https://www.linkedin.com/in/piyush-ojha-177b88172/"
 
 
 
 
-<p><a href="https://www.w3schools.com">
+<p><a href="https://www.linkedin.com/in/piyush-ojha-177b88172/">
 <img align="left" alt="samadtalukder" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" >
 </a>
 </p>
