@@ -24,6 +24,6 @@
 
 
 <p><a href="https://www.w3schools.com">
-<img border="0" alt="W3Schools" src="logo_w3s.gif" width="100" height="100">
+<img align="left" alt="samadtalukder" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" >
 </a>
 </p>
