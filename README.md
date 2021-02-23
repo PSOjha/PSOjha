@@ -24,11 +24,12 @@
 [<img align="left" alt="samadtalukder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="samadtalukder | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="samadtalukder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="samadtalukder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][instagram]
-[<img align="left" alt="samadtalukder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][instagram]
+[<img align="left" alt="samadtalukder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="samadtalukder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
-
+[youtube]: https://www.youtube.com/channel/UCAv-po1SMNNQtlcMvec-JTQ
+[twitter]: https://twitter.com/piyushojha577
 [website]: https://www.linkedin.com/in/piyush-ojha-177b88172/
 [facebook]: https://www.facebook.com/piyush.ojha.777
 [instagram]: https://www.instagram.com/piyush.0jha/
