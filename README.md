@@ -6,6 +6,8 @@
 - ⚡️  Fun fact about me: I love playing 🕹 retro games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️  Possibly this is why I also talk a lot 🤔
 - Codes often, mostly unfinished side projects.
 - Improves and help with other people's projects.
+- 💬 Ask me about anything, I am happy to help
+- 📫 Feel free to reach out to me on twitter
 
       I believe in the quote which says 
       "Creativity is thinking up new things. Innovation is doing new things". 
