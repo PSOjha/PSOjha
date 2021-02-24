@@ -9,6 +9,7 @@
 - 👨‍💻 Software Developer Intern'18-19 at [@ISRO](https://www.isro.gov.in/)
 - Codes often, mostly unfinished side projects.
 - Improves and help with other people's projects.
+- Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
 
       I believe in the quote which says 
       "Creativity is thinking up new things. Innovation is doing new things". 
