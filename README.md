@@ -4,7 +4,7 @@
 - 👨🏻‍💻  I’m primarily an Android Engineer.
 
 - ⚡️  Fun fact about me: I love playing 🕹 retro games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️  Possibly this is why I also talk a lot 🤔
-- 💬 Ask me about anything, I am happy to help        <img alt="GIF" height= 150 src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /> 
+- 💬 Ask me about anything, I am happy to help       
 - 📫 Feel free to reach out to me on [twitter](https://twitter.com/piyushojha577)
 - 👨‍💻 Software Developer Intern'18-19 at [@ISRO](https://www.isro.gov.in/)
 - Codes often, mostly unfinished side projects.
