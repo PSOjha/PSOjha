@@ -4,6 +4,7 @@
 - 👨🏻‍💻  I’m primarily an Android Engineer.
 
 - ⚡️  Fun fact about me: I love playing 🕹 retro games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️  Possibly this is why I also talk a lot 🤔
+- <img align="right" alt="GIF"  height= 200 src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /> 
 - 💬 Ask me about anything, I am happy to help       
 - 📫 Feel free to reach out to me on [twitter](https://twitter.com/piyushojha577)
 - 👨‍💻 Software Developer Intern'18-19 at [@ISRO](https://www.isro.gov.in/)
@@ -15,8 +16,6 @@
       "Creativity is thinking up new things. Innovation is doing new things". 
       The quote inspires me to be always creative, innovative and a learner. 
       I always keep myself busy learning new things and doing research on little what I know.
-      
- <img alt="GIF" height= 150 src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />     
 
 
 [![piYush's github stats](https://github-readme-stats.vercel.app/api?username=PSOjha)](https://github.com/PSOjha/piYushOjha)
